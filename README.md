@@ -26,12 +26,17 @@
   <img src="https://skillicons.dev/icons?i=github" />
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+</p> -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,idea" />
 </p>
 
 ---
@@ -39,7 +44,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=4-lan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=4-lan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 </p>
 
 ---
