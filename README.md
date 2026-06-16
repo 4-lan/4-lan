@@ -10,5 +10,5 @@ Tenho interesse em desenvolvimento de software e estou sempre buscando aprender 
 
 🚀 Atualmente focado em construir experiência, desenvolver projetos e ampliar meus conhecimentos na área de tecnologia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/alan-silva-020875361)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alan-silva-020875361)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4-lan)
