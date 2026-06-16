@@ -1,14 +1,55 @@
-# 👨‍💻 Alan Silva
+# Olá, eu sou Alan Silva 👋
+ **`Desenvolvedor Back-end Java`**
 
-**`Desenvolvedor Back-End`**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Olá! Eu sou Alan Silva.
+🚀 Apaixonado por tecnologia, APIs REST e desenvolvimento de software.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia.
+---
 
-Tenho interesse em desenvolvimento de software e estou sempre buscando aprender novas ferramentas, boas práticas e conceitos que me ajudem a evoluir como desenvolvedor. Gosto de transformar conhecimento em projetos práticos e encarar desafios que contribuam para meu crescimento profissional.
+## 👨‍💻 Sobre mim
 
-🚀 Atualmente focado em construir experiência, desenvolver projetos e ampliar meus conhecimentos na área de tecnologia.
+- 🔭 Atualmente desenvolvendo projetos com Java e Spring Boot
+- 🌱 Estudando Arquitetura de Software e Microsserviços
+- 💡 Interesse em Backend, Cloud e DevOps
+- 📍 Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/alan-silva-020875361/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cristian_alan7)
+---
+
+## 🤖 Tecnologias
+
+<div>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=4-lan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=4-lan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+---
+
+## 📞 Contato
+
+[LinkedIn](https://www.linkedin.com/in/alan-silva-020875361/)
